@@ -2,14 +2,21 @@
 layout: post
 title:  "React 개발 스터디 개요"
 date:   2020-05-05 21:03:36 +0530
-categories: React
+categories: React 
 ---
-Build A Real World Beautiful Web APP with Angular 8 — A to Z Ultimate Guide (2019)
-라이브 데모 (V2) : https://minimus-weather.web.app
-관련 Article : Part 1, 2로 구성되어 있음
+# 스터디 개요
+
+* 프론트엔드 개발 기술을 익히기 위해 2~3개월 단위로 주제와 기술을 변경해 연말까지 3~4회 목표로 네이버 하코사 카페에서 스터디를 진행할 생각이며, 첫번째 스터디할 기술로 React를 정해 진행함
+
+## 개발 대상
+- Build A Real World Beautiful Web APP with Angular 8 — A to Z Ultimate Guide (2019)
+... which is shown in the screenshot below:
+![React eather Application Screenshot](/assets/minus.png)
+- 라이브 데모 (V2) : https://minimus-weather.web.app
+- 관련 Article : Part 1, 2로 구성되어 있음
 - https://medium.com/@hamedbaatour/build-a-real-world-beautiful-web-app-with-angular-6-a-to-z-ultimate-guide-2018-part-i-e121dd1d55e
 - https://medium.com/@hamedbaatour/build-a-real-world-beautiful-web-app-with-angular-8-the-ultimate-guide-2019-part-ii-fe70852b2d6d
-Github Repo : https://github.com/hamedbaatour/Minimus
+- Github Repo : https://github.com/hamedbaatour/Minimus
 
 예제가 단순하기 때문에 디자인 영역을 제외한 모든 영역을 직접 개발합니다.
 서로 도와줄 수 있도록 가급적 개발 환경, 기술 SET, 버전 등은 통일했으면 하지만 강제는 아닙니다.
