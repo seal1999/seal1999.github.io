@@ -7,21 +7,21 @@ categories: React
 
 *** Modern Javascript** 기반의 프론트엔드 개발 기술을 익히기 위해 2~3개월 단위로 주제와 기술을 변경해 연말까지 3~4회 스터디를 진행하고자 합니다. 네이버 하코사 카페에서 스터디 팀원을 모집하여 함께 진행하고 있으며, 첫번째 스터디할 기술로 React를 정했습니다.
 
-## 개발 대상
-- Build A Real World Beautiful Web APP with Angular 8 — A to Z Ultimate Guide (2019)
-... which is shown in the screenshot below:
+### 개발 대상
+
+... Build A Real World Beautiful Web APP with Angular 8 — A to Z Ultimate Guide (2019)의 Screenshot:
 ![React eather Application Screenshot](/assets/minus.png)
-- 라이브 데모 (V2) : https://minimus-weather.web.app
-- 관련 Article : Part 1, 2로 구성되어 있음
-- https://medium.com/@hamedbaatour/build-a-real-world-beautiful-web-app-with-angular-6-a-to-z-ultimate-guide-2018-part-i-e121dd1d55e
-- https://medium.com/@hamedbaatour/build-a-real-world-beautiful-web-app-with-angular-8-the-ultimate-guide-2019-part-ii-fe70852b2d6d
-- Github Repo : https://github.com/hamedbaatour/Minimus
+
+- [라이브 데모 (V2)](https://minimus-weather.web.app)
+- [Article Part 1](https://medium.com/@hamedbaatour/build-a-real-world-beautiful-web-app-with-angular-6-a-to-z-ultimate-guide-2018-part-i-e121dd1d55e)
+- [Article Part 2](https://medium.com/@hamedbaatour/build-a-real-world-beautiful-web-app-with-angular-8-the-ultimate-guide-2019-part-ii-fe70852b2d6d)
+- [Angular 소스 Github 저장소](https://github.com/hamedbaatour/Minimus)
+
+
+### 스터디 방법
 
 예제가 단순하기 때문에 디자인 영역을 제외한 모든 영역을 직접 개발합니다.
-서로 도와줄 수 있도록 가급적 개발 환경, 기술 SET, 버전 등은 통일했으면 하지만 강제는 아닙니다.
-학습 목적이므로 ES6 문법의 적절한 사용을 권장하며, 
-일러스터, 아이콘 등은 해당 사이트에서 제공되는 것을 사용해 코딩에 집중합니다.
-8주 목표 일정으로 진행하고, 4주는 어떤 단계에서 학습할 내용이 많을 수 있어서 Buffer로 남겨둡니다.
+학습 목적이므로 ES6 문법의 적절한 사용을 권장하며, 일러스터, 아이콘 등은 해당 사이트에서 제공되는 것을 사용해 코딩에 집중합니다.
 
    Step 1. 디자인 (Adobe XD) 생략, 개요 소개 및 환경 설정으로 대체 (1day)
       . SVG 아이콘, 일러스터 디자인 등은 그대로 사용
