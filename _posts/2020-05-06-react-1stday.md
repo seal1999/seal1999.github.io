@@ -57,17 +57,17 @@ yarn add redux-promise redux-thunk
 
 ### 1일차 개발 
 
-1. src 디렉토리 구조를 assets, views, components 3개로 우선 만들고 시작해보기로 함
+* src 디렉토리 구조를 assets, views, components 3개로 우선 만들고 시작해보기로 함
    * assets : 공통 css, images 등
    * components : 화면을 구성하는 컴포넌트 (Header, Lnb)
    * views : 컴포넌트를 구성하는 화면 (MainPage, LoginPage, AddCityPage DetailsPage)
 
-2. 화면명만 있는 Component를 만들고 reactjs code snippets를 이용해 빠르게 만듦
+* 화면명만 있는 Component를 만들고 reactjs code snippets를 이용해 빠르게 만듦
    * 디렉토리에 js 파일을 만들고, rcc 명령으로 컴포넌트 코드 스니펫을 만든 후 수정하는 방식
 
 ![Code Snippet](/assets/codeSnippet.png)
 
-3. index.js에 라우팅 설정
+* index.js에 라우팅 설정
    * App.js를 사용하지 않고 index.js에 바로 입력함. 여기에 하는게 맞나? 하는 부분이 가장 어렵다고 느껴짐
    * 뭐가 더 좋은지는 천천히 기능을 추가해가며 직접 느껴보기로 하고 일단 개발을 계속 진행함
 
@@ -101,14 +101,14 @@ serviceWorker.unregister();
 ```
 
 
-4. cmd 창에서 yarn start 명령으로 실행 
+* cmd 창에서 yarn start 명령으로 실행 
 
 ```javascript
 yarn start
 ```
 
 
-5. 결과 및 devtool로 구조 확인
+* 결과 및 devtool로 구조 확인
 
    *  /, /login, /addcity, /details를 옮겨가며 결과를 확인함 
    * Lnb와 Header가 MainPage 밑에 달려있는 부분이 어색하다고 생각됨 --> 2일차 스터디 시간에 개선해볼 예정
@@ -116,6 +116,6 @@ yarn start
 ![React Application Structure](/assets/structure.png)
 
 
-6. 해외 블로그에 올라온 원글을 참고해서 각자 최대한 컴포넌트의 정적 구조를 꾸미기
+* 해외 블로그에 올라온 원글을 참고해서 각자 최대한 컴포넌트의 정적 구조를 꾸미기
 
    * HTML 및 Style은 각자 꾸며 오는 걸로하고 1일차 스터디 종료
